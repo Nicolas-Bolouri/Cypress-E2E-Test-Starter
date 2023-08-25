@@ -2,7 +2,7 @@
 
 // Example test file - delete this file and create your own tests
 // Test files should be named <name>.cy.ts
-// Feel free to create subfolders to better organize test files
+// It is suggested to create subfolders to better organize test files
 
 describe("template spec", () => {
   it("passes", () => {
