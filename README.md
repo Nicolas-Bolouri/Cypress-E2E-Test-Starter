@@ -21,7 +21,7 @@ Welcome to `Cypress-E2E-Test-Starter`, your go-to boilerplate for kickstarting y
 
 ## Cypress Folder Structure
 
-<img width="265" alt="Cypress-Folder-Structure" src="https://github.com/Nicolas-Bolouri/Cypress-E2E-Test-Starter/assets/115577083/90ac2d14-2cde-48d0-8a2d-bec88ab9d7e2">
+<img width="265" alt="Cypress-Folder-Structure" src="https://github.com/Nicolas-Bolouri/Cypress-E2E-Test-Starter/assets/115577083/6b8f55f2-8695-4c03-988c-c2adecc7a32f">
 
 ## Boilerplate Details
 
