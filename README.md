@@ -2,7 +2,7 @@
 
 Welcome to `Cypress-E2E-Test-Starter`, your go-to boilerplate for kickstarting your end-to-end (E2E) test automation in both TypeScript and JavaScript with the powerful Cypress framework. Either integrate this repository in your application directory or keep it separate to run your e2e tests on their own.
 
-## Table of Contents
+# Table of Contents
 
 - [Built With](#built-with)
 - [Cypress Folder Structure](#cypress-folder-structure)
