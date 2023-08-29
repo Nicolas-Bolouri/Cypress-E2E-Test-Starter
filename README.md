@@ -71,15 +71,15 @@ The `support` folder contains everything that has to do with custom or important
     npm install
     ```
 
-4. **Configure**
+3. **Configure**
     - Update the `cypress.json`, `prettierrc.ts`, `package.json`, and `eslintrc.json` with your project-specific configurations.
     - Add your base URLs, custom commands, or any environment variables if necessary.
 
-5. **Writing Tests**
+4. **Writing Tests**
     - Navigate to `cypress/e2e` directory.
     - Write your tests. Make sure to look over the repo to ensure you follow the recommended structure.
       
-6. **Run Tests**
+5. **Run Tests**
     - To run tests in an interactive mode:
     ```bash
     npx cypress open
